@@ -5,24 +5,19 @@
     "link": "https://blog.felicx.eu.org/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
     "icon": "CompactDisc",
     "name": "音乐",
     "link": "https://music.imsyy.top/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "Linux",
+    "name": "Linux 命令",
+    "link": "https://linux.felicx.eu.org/"
   },
   {
     "icon": "Book",
     "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "link": "https://web.felicx.eu.org/"
   },
   {
     "icon": "Fire",

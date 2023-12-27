@@ -12,27 +12,27 @@
     "url": "https://space.bilibili.com/474515207"
   },
   {
-    "name": "QQ",
-    "icon": "/images/icon/qq.png",
-    "tip": "有什么事吗",
-    "url": "https://res.abeim.cn/api/qq/?qq=1539250352"
+    "name": "知乎",
+    "icon": "/images/icon/zhihu.png",
+    "tip": "这里有答案",
+    "url": "https://www.zhihu.com/people/wo-de-fantasy"
   },
   {
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "mailto:one@imsyy.top"
+    "url": "https://mail.google.com/"
   },
   {
     "name": "Twitter",
     "icon": "/images/icon/twitter.png",
     "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
+    "url": "https://twitter.com/"
   },
   {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
     "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "url": "https://t.me/"
   }
 ]
