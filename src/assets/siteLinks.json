@@ -11,22 +11,22 @@
   },
   {
     "icon": "Linux",
-    "name": "Linux 命令",
+    "name": "Linux",
     "link": "https://linux.felicx.eu.org/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
+    "name": "网址",
     "link": "https://web.felicx.eu.org/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
+    "name": "热榜",
     "link": "https://hot.imsyy.top/"
   },
   {
     "icon": "CookieBite",
-    "name": "来做菜吧",
+    "name": "Cook",
     "link": "https://cook.yunyoujun.cn/"
   }
 ]
